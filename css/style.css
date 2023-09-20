@@ -37,7 +37,7 @@ div{
 
 
 .introduction {
-    border-radius: 15px;
+    border-radius: 15px; 
     margin-top: 15px;
     line-height: 2;
   }
@@ -47,7 +47,10 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-width: 3px 3px 2px 5px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
 }
 
 .blue {
@@ -55,7 +58,10 @@ div{
     text-align: left;
     margin-right: 50px;
     color: #c4c4c4;
-    border-width: 2px 5px 3px 3px;
+    border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
 }
 .blue > h2{
     color: #c4c4c4;
@@ -68,14 +74,20 @@ div{
     text-align: right;
     margin-left: 50px;
     color:#707070;
-    border-width: 3px 3px 2px 5px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
 }
 
 .green {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5px 3px 3px;
+    border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
+    border-bottom: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
 }
 
 footer {
