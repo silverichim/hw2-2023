@@ -47,8 +47,8 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom-width: 2px;
+    border-left-width: 5px;
 }
 
 .blue {
@@ -56,9 +56,14 @@ div{
     text-align: left;
     margin-right: 50px;
     color: #c4c4c4;
-    border-top: 2px;
-    border-right: 5px;
+    border-top-width: 2px;
+    border-right-width:5px;
 }
+
+
+
+
+
 .blue > h2{
     color: #c4c4c4;
 }
@@ -70,8 +75,7 @@ div{
     text-align: right;
     margin-left: 50px;
     color:#707070;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-width: 3px 3px 2px 5px;
 
 }
 
@@ -79,8 +83,7 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-width: 2px 5px 3px 3px;
 
 
 }
