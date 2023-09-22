@@ -51,7 +51,7 @@ div{
     text-align: left;
     margin-right: 50px;
     color: #c4c4c4;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
 }
 
 .blue > h2{
@@ -63,7 +63,7 @@ div{
     text-align: right;
     margin-left: 50px;
     color:#707070;
-    border: 0px 0px 2px 5px
+    border-width: 0px 0px 2px 5px
 
 }
 
@@ -71,7 +71,7 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
 }
 
 footer {
